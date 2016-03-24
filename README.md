@@ -257,7 +257,7 @@ The default is `"/usr/local/rbenv"`.
 
 Makes the `rbenv_ruby` LWRP to download ruby binaries instead of compiling them.
 
-The default is `false`.
+The default is `true`.
 
 ### <a name="attributes-rvm-download-git-url"></a> rvm_download/git_url
 
